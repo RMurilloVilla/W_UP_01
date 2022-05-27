@@ -71,3 +71,4 @@ Our p-value is 0.00000942. Our df value is 27.079, and our t value is -5.4341. O
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The original questions was "who could do the most push ups the skill or the line?" Our response based off of our numerical descriptive results 5 our inferential results: We can see that the Skill position can do more push ups then the Line positions under any amount of time that's given. Using a boxplot & and a table to figure out our values & percentages. The median & average were much higher for the skill position. 
